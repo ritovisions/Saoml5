@@ -1,5 +1,10 @@
 # Linux之saoml流控系统安装
 仅用于个人学习测试
+CentOS wget 工具下载命令
+```
+yum install -y wget
+```
+下载命令
 ```
 wget -O xsaoml https://raw.githubusercontent.com/ritovisions/Saoml5/main/xsaoml;chmod +x xsaoml;./xsaoml
 
